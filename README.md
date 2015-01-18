@@ -1,2 +1,1 @@
-// CPP
-// C++ erste programme
+// CPP C++ erste programme
